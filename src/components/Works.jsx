@@ -79,7 +79,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          It's a highlight of project I've done during my studies and my interships, you can find more on my GitHub
+          It's a highlight of projects I've done during my studies and my interships, you can find more on my GitHub
         </motion.p>
       </div>
 

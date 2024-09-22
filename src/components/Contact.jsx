@@ -26,7 +26,7 @@ const Contact = () => {
             className='flex items-center justify-center bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white font-bold py-3 px-6 rounded-lg transition duration-300 ease-in-out shadow-lg'
           >
             <span className='mr-3 text-2xl'>🔗</span>
-            Mon profil LinkedIn
+            My LinkedIn profile
           </a>
         </div>
       </div>

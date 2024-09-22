@@ -163,10 +163,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2023",
     points: [
-      "Developing a Docking Model of Unsupervie Machine Learning to predict position of active ingredient ",
-      "Analyse of active, and inverse agonist ligan of the ghrelin receptor",
-      "Redaction of a report to support the research team's progress and publication",
-      "Modelisation in 3D of ligan in the receptor with IA model",
+      "Developing a Docking Model of Unsupervised Machine Learning to predict position of active substance ",
+      "Analyse of active ligand, and inverse agonist of the ghrelin receptor",
+      "Redaction of a report to support the research team's progress and publications",
+      "Modelisation in 3D of different ligands in the receptor with IA model",
     ],
   },
   
@@ -184,7 +184,7 @@ const schools = [
       "Machine Learning",
       "Database",
       "Mathematics and Signal Processing",
-      "Embaded IA",
+      "Embedded AI",
       "Sciences and Sustainability",
       "Software/Hardware Interfaces",
       "Electronics and Embedded Systems, Real-Time Systems",
