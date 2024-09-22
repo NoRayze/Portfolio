@@ -166,7 +166,7 @@ const experiences = [
       "Developing a Docking Model of Unsupervised Machine Learning to predict position of active substance ",
       "Analyse of active ligand, and inverse agonist of the ghrelin receptor",
       "Redaction of a report to support the research team's progress and publications",
-      "Modelisation in 3D of different ligands in the receptor with IA model",
+      "Modelisation in 3D of different ligands in the receptor with AI model",
     ],
   },
   
@@ -355,7 +355,7 @@ const projects = [
   {
     name: "Machine Learning for molecular prediction and modelisation",
     description:
-      "Project during my internship at CNRS on the prediction and modeling with IA of active pharmaceutical ingredients.",
+      "Project during my internship at CNRS on the prediction and modeling with AI of active pharmaceutical ingredients.",
     tags: [
       {
         name: "Python",
