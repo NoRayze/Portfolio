@@ -1,5 +1,10 @@
 import {
   mobile,
+  lamerci,
+  mine,
+  stanford,
+  wharton,
+  cafoscari,
   backend,
   creator,
   web,
@@ -33,6 +38,7 @@ import {
   threejs,
   classification_ml,
   docking,
+  cafoscari,
 } from "../assets";
 
 export const navLinks = [
@@ -54,7 +60,7 @@ export const navLinks = [
   },
   {
     id: "tech",
-    title: 'Technologie',
+    title: 'Technology',
   },
   {
     id: "contact",
@@ -171,7 +177,7 @@ const schools = [
   {
     title: "Master of Science in Computer Science",
     company_name: "School of Engineering : Mines de Saint Etienne",
-    icon: marcoaudit,
+    icon: mine,
     iconBg: "#E6DEDD",
     date: "September 2023 - June 2026",
     points: [
@@ -192,7 +198,7 @@ const schools = [
   {
     title: "Gap year",
     company_name: "University of Venise : Ca'Foscari",
-    icon: cnrs,
+    icon: cafoscari,
     iconBg: "#E6DEDD",
     date: "September 2024- August 2025",
     points: [
@@ -205,7 +211,7 @@ const schools = [
   {
     title: "Machine Learning Certification",
     company_name: "DeepLearning.AI & Stanford University",
-    icon: cnrs,
+    icon: stanford,
     iconBg: "#E6DEDD",
     date: "November 2023-  January 2024",
     points: [
@@ -215,9 +221,9 @@ const schools = [
     ],
   },
   {
-    title: "Finance & Quantitative Modeling for Analyst",
+    title: "Finance & Quantitative Modeling for Analyst Certification",
     company_name: "Wharton Online, University of Pennsylvania",
-    icon: cnrs,
+    icon: wharton,
     iconBg: "#E6DEDD",
     date: "August 2023-  September 2023",
     points: [
@@ -231,7 +237,7 @@ const schools = [
   {
     title: "Preparatory Class CPGE MPSI/MP",
     company_name: "HighSchool Notre Dame de la Merci, Montpellier",
-    icon: cnrs,
+    icon: lamerci,
     iconBg: "#E6DEDD",
     date: "August 2023-  September 2023",
     points: [

@@ -8,6 +8,11 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import portfolio from "./portfolio.jpg";
+import lamerci from "./lamerci.png";
+import mine from "./mine.png";
+import stanford from "./stanford.jpg";
+import wharton from "./wharton.png";
+import cafoscari from "./CaFoscari.jpg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -43,6 +48,11 @@ import classification_ml from "./classification_ML.png";
 import docking from "./docking.png";
 export {
   portfolio,
+  lamerci,
+  mine,
+  stanford,
+  wharton,
+  cafoscari,
   githubsvg,
   backend,
   creator,
