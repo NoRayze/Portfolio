@@ -12,10 +12,7 @@ const FeedbackCard = ({
   description,
   icon,
 }) => (
-  <motion.div
-    variants={fadeIn("", "spring", index * 0.5, 0.75)}
-    className='bg-black-200 p-10 rounded-3xl xs:w-[320px] w-full'
-  >
+  <div>
     <div className='mt-1'>
       <img
         src={icon}
@@ -25,7 +22,7 @@ const FeedbackCard = ({
       <h3 className='text-white font-black text-[24px]'>{techName}</h3>
       <p className='text-white tracking-wider text-[16px]'>{description}</p>
     </div>
-  </motion.div>
+  </div>
 );
 
 const Feedbacks = () => {
