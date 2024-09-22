@@ -38,7 +38,6 @@ import {
   threejs,
   classification_ml,
   docking,
-  cafoscari,
 } from "../assets";
 
 export const navLinks = [
