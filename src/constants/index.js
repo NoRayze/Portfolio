@@ -38,6 +38,7 @@ import {
   threejs,
   classification_ml,
   docking,
+  market,
 } from "../assets";
 
 export const navLinks = [
@@ -372,6 +373,27 @@ const projects = [
     ],
     image: docking,
     source_code_link: "https://github.com/NoRayze/Docking_report",
+  },
+  {
+    name: "App market with ML for Prediction Market sandbox",
+    description:
+      "Quick project to deploy a ML and build an App to show result.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Sklearn",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Tensorflow",
+        color: "green-text-gradient",
+      },
+    ],
+    image: market,
+    source_code_link: "https://github.com/NoRayze/ML_predict_market",
   },
 ];
 

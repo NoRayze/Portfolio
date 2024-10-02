@@ -46,6 +46,7 @@ import tripguide from "./tripguide.png";
 import centralisateur from "./centralisateur.png";
 import classification_ml from "./classification_ML.png";
 import docking from "./docking.png";
+import market from "./market.png";
 export {
   portfolio,
   lamerci,
@@ -91,4 +92,5 @@ export {
   centralisateur,
   classification_ml,
   docking,
+  market,
 };
