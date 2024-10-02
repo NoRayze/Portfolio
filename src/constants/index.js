@@ -375,7 +375,7 @@ const projects = [
     source_code_link: "https://github.com/NoRayze/Docking_report",
   },
   {
-    name: "App market with ML for Prediction Market sandbox",
+    name: "App market with ML sandbox for Prediction Market sandbox",
     description:
       "Quick project to deploy a ML and build an App to show result.",
     tags: [
