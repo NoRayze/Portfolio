@@ -25,15 +25,9 @@ import {
   cpp,
   office,
   render,
-  meta,
-  starbucks,
+  pg,
   marcoaudit,
   cnrs,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
   centralisateur,
   threejs,
   classification_ml,
@@ -144,6 +138,23 @@ const Feedback = [
 ];
 
 const experiences = [
+  {
+    title: "Data Engineer/ DevOps Intern",
+    company_name: "Procter & Gamble",
+    icon: pg,
+    iconBg: "#E6DEDD",
+    date: "February 2025 - July 2025",
+    points: [
+      "Contributed to the modernization and industrialization of a data pipeline and its infrastructure + conception of app for the production with revamp of script:",
+      "Designed and compared workflow orchestration solutions (Airflow, Dagster, ...)",
+      "Deployed Airflow on a VM with Docker and revamped scripts to optimize production (business logic optimization, Python multithreading)",
+      "Built a caching system for horizontal scaling (Docker, Nginx) with monitoring via Grafana with an average optimization of x20 in time process of pipeline and can be scale without any problem",  
+      "Refactored a CakePhP application to a Flask App, and creation of a Flask App template in collaboration. and creation of new local GitHub Runner",
+      "Designed and connected a database with automated health checks",
+      "Conducted research and experiments on Data Lineage and network monitoring with Wireshark",
+      "Key skills: Airflow, Dagster, Docker, Python, Flask, Grafana, Git, Nginx, Wireshark, Databases SQL, Azure",
+    ],
+  },
   {
     title: "Full stack developer and automatisation",
     company_name: "Marco audit",

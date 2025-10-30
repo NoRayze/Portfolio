@@ -19,7 +19,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I'm student in Computer Science, and <br className='sm:block hidden' />
-            I search an intership for 2025
+            I search an intership end of study | permanent contract | VIE for April 2026
           </p>
         </div>
       </div>

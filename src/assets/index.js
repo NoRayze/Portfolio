@@ -33,10 +33,7 @@ import cpp from "./tech/c++.jpg";
 import office from "./tech/office.jpg";
 import render from "./tech/render.jpg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import pg from "./company/pg.png";
 import marcoaudit from "./company/marcoaudit.png";
 import cnrs from "./company/cnrs.png";
 
@@ -80,15 +77,9 @@ export {
   cpp,
   office,
   render,
-  meta,
-  shopify,
-  starbucks,
+  pg,
   marcoaudit,
   cnrs,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
   centralisateur,
   classification_ml,
   docking,
